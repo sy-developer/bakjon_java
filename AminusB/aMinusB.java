@@ -1,4 +1,4 @@
-package bakjon.AminusB;
+package AminusB;
 
 import java.util.Scanner;
 

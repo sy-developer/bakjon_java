@@ -1,4 +1,4 @@
-package bakjon.Welovekriii;
+package Welovekriii;
 
 public class weLoveKriii {
     public static void main(String[] args) {

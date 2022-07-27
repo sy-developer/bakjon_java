@@ -1,4 +1,4 @@
-package bakjon.arithmeticOperation;
+package arithmeticOperation;
 
 import java.util.Scanner;
 

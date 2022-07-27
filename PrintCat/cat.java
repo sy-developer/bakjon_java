@@ -1,4 +1,4 @@
-package bakjon.PrintCat;
+package PrintCat;
 
 public class cat {
     public static void main(String[] args) {

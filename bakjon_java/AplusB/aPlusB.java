@@ -1,4 +1,4 @@
-package AplusB;
+package bakjon_java.AplusB;
 
 import java.util.Scanner;
 
@@ -13,5 +13,4 @@ public class aPlusB {
 
         in.close();
     }
-
 }

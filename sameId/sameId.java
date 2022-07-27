@@ -1,4 +1,4 @@
-package bakjon.sameId;
+package sameId;
 
 import java.util.Scanner;
 

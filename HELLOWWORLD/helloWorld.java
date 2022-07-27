@@ -1,4 +1,4 @@
-package bakjon.HELLOWWORLD;
+package HELLOWWORLD;
 
 public class helloWorld {
     public static void main(String[] args) {

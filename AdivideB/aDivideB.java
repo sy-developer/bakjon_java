@@ -1,4 +1,4 @@
-package bakjon.AdivideB;
+package AdivideB;
 
 import java.util.Scanner;
 

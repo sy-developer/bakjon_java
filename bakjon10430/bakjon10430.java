@@ -1,4 +1,4 @@
-package bakjon.bakjon10430;
+package bakjon10430;
 
 import java.util.Scanner;
 

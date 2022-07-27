@@ -1,4 +1,4 @@
-package bakjon.AmultiplyB;
+package AmultiplyB;
 
 import java.util.Scanner;
 
